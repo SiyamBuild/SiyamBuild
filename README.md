@@ -6,7 +6,10 @@
 <!-- ==================== TYPING ANIMATION ==================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;Problem+Solver+🧠;Open+Source+Contributor+🌟;Always+Learning+New+Things+📚" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Open+Source+Contributor+%E2%AD%90;Always+Learning+New+Things+%F0%9F%93%9A"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
@@ -138,13 +141,13 @@ I'm a passionate **Full Stack Developer** from Bangladesh 🇧🇩 who loves bui
 </p>
 
 <!-- ==================== TROPHIES ==================== -->
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SiyamBuild&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
-</p>
+</p> -->
 
 ---
 
