@@ -11,41 +11,25 @@
 </div>
 
 <!-- ==================== BADGES ==================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiyamBuild&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SiyamBuild?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives-Bangladesh%20🇧🇩-success?style=for-the-badge" />
-</p>
+</p> -->
 
 ---
 
 <!-- ==================== ABOUT ME ==================== -->
 ## 🧑‍💻 About Me
 
-```javascript
-const arifin = {
-    name:       "Md Arifin Haque Siyam",
-    role:       "Full Stack Developer",
-    location:   "Bangladesh 🇧🇩",
-    languages:  ["JavaScript", "TypeScript", "Python", "C", "C++", "Bash"],
-    frontend:   ["React", "Next.js", "Vue.js", "TailwindCSS", "HTML5", "CSS3"],
-    backend:    ["Node.js", "Express.js"],
-    databases:  ["MongoDB", "MySQL"],
-    devops:     ["AWS", "Docker", "Git", "Linux"],
-    design:     ["Figma", "Adobe XD", "Illustrator", "Photoshop"],
-    iot:        ["Arduino"],
-    currentlyLearning: ["System Design", "Kubernetes", "GraphQL"],
-    funFact:    "I debug with console.log and I'm proud of it 😄"
-};
-```
+I'm a passionate **Full Stack Developer** from Bangladesh 🇧🇩 who loves building clean, scalable web applications and turning ideas into real products.
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **System Design, Kubernetes & GraphQL**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, or anything web**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I turn coffee into clean code ☕ → 💻**
+- 📫 How to reach me: **mdarifinhaquesiyam@gmail.com**
 
 ---
 
@@ -140,16 +124,16 @@ const arifin = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/SiyamBuild">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SiyamBuild&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SiyamBuild&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
 </p>
 
 <!-- ==================== STREAK STATS ==================== -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/SiyamBuild">
+    <img src="https://streak-stats.demolab.com/?user=SiyamBuild&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -158,7 +142,7 @@ const arifin = {
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SiyamBuild&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -168,8 +152,8 @@ const arifin = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <a href="https://github.com/SiyamBuild">
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=SiyamBuild&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
   </a>
 </p>
 
@@ -179,17 +163,12 @@ const arifin = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SiyamBuild/SiyamBuild/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<!-- ==================== QUOTE ==================== -->
-## 💬 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ---
 
@@ -197,6 +176,6 @@ const arifin = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-  <h3>⭐ From <a href="https://github.com/YOUR_USERNAME">Md Arifin Haque Siyam</a> ⭐</h3>
+  <h3>⭐ From <a href="https://github.com/SiyamBuild">Md Arifin Haque Siyam</a> ⭐</h3>
   <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
 </div>
